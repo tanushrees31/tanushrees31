@@ -1,10 +1,6 @@
-### Hi there,I'm Thanushree S 👋
-![d5s](https://github.com/tanushrees31/tanushrees31/assets/94157726/54e9325d-a941-4eb1-96f8-8f3ba221b6a3)
-
-
-<h1 align="center">Hi 👋, I'm Thanushree S</h1>
+### <h1 align="center">Hi 👋, I'm Thanushree S</h1>
 <h3 align="center">Information Science and Engineering Student</h3>
-
+![d5s](https://github.com/tanushrees31/tanushrees31/assets/94157726/54e9325d-a941-4eb1-96f8-8f3ba221b6a3)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@thanushree12703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thanushree12703" height="30" width="40" /></a>
