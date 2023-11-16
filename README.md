@@ -5,7 +5,8 @@
 An Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I'm well-versed in my technical and non-technical skills and eager to apply them to real-world situations. I'm committed to personal and professional growth.
 
 
-My skill set
+Connect with me 
+linkedin.com/in/thanushrees31/
 
 
 
