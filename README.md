@@ -8,7 +8,6 @@ An Information Science and Engineering student with a focus on innovation and ha
 My skill set
 
 
-![BeFunky-collage](https://github.com/tanushrees31/tanushrees31/assets/94157726/410a8512-ff4c-40a6-8a00-55e3de225554)
 
 
 
