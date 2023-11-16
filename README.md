@@ -2,7 +2,7 @@
 
 <!--
 **tanushrees31/tanushrees31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![d5s](https://github.com/tanushrees31/tanushrees31/assets/94157726/2e47ec77-b09a-40b5-b9fc-09ae1631c378)
+[d5s](https://github.com/tanushrees31/tanushrees31/assets/94157726/2e47ec77-b09a-40b5-b9fc-09ae1631c378)
 
 Here are some ideas to get you started:
 
