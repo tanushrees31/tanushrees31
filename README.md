@@ -6,8 +6,8 @@ An Information Science and Engineering student with a focus on innovation and ha
 
 
 My skill set
-
-<!--![BeFunky-collage](https://github.com/tanushrees31/tanushrees31/assets/94157726/306ab430-8baf-4f14-b9de-c072f3eaa7c5)
+[BeFunky-collage](https://github.com/tanushrees31/tanushrees31/assets/94157726/306ab430-8baf-4f14-b9de-c072f3eaa7c5)
+<!--!
 
 **tanushrees31/tanushrees31** is a ✨ _special_ ✨ repository because ![android studio](https://github.com/tanushrees31/tanushrees31/assets/94157726/1143f543-abfd-430a-b54c-d5fbe0032e96)
 its `README.md` (this file) appears on your GitHub profile.
