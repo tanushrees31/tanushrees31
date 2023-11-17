@@ -1,9 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Thanushree</h1>
+</br>
 
 
-
-# 💫 About Me:
-I'm Thanushree S<br>An Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I'm well-versed in my technical and non-technical skills and eager to apply them to real-world situations.
+#  About Me:
+An Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I'm well-versed in my technical and non-technical skills and eager to apply them to real-world situations.
 
 
 ## 🌐 Socials:
