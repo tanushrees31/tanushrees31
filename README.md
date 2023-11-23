@@ -57,6 +57,7 @@
 
 ### Projects
 IFSC FINDER - The IFSC Database Management Project is a comprehensive solution for managing information related to banking institutions, their branches, and administrative users. 
+<div align="left">
 FOOD DONATION APPLICATION - 
 
 
