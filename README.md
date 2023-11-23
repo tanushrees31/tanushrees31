@@ -31,11 +31,6 @@
 Let's connect and collaborate on exciting projects and ideas! Feel free to explore my repositories and reach out to me to discuss any opportunities or ideas. Thank you for visiting my profile!
 </p>
 
-- 🌱 I’m currently learning Python   
-
-
-<h3 align="left">🛠 Tech Stack </h3>
-
 ## 💻 Skills & Interests
 
 - Programming Languages: JavaScript, Python, Java, C++, PHP
@@ -51,8 +46,7 @@ Let's connect and collaborate on exciting projects and ideas! Feel free to explo
 
 <div align="Left">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushrees31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrees31)
  
 
 ## 🚀 Projects
@@ -62,30 +56,26 @@ Here are some of my notable projects on GitHub:
 1. [Web_Devlopment_Portofolia](https://github.com/tanushrees31/Web_Devlopment_Portofolia)
     - A showcase of my web development skills and projects
     - Technologies used: HTML5, CSS3, JavaScript
-    - ![Project Screenshot](https://example.com/screenshot.png)
+   
 
 2. [MobileAppD](https://github.com/tanushrees31/MobileAppD)
     - Mobile app development projects and experiments
     - Technologies used: Android Development (Java)
-    - ![Project Screenshot](https://example.com/screenshot.png)
+   
 
 3. [Netflix](https://github.com/tanushrees31/Netflix)
     - A recreation of the Netflix interface with dynamic movie suggestions
     - Most starred repository
     - Technologies used: HTML5, CSS3, JavaScript
-    - ![Project Screenshot](https://example.com/screenshot.png)
-
+   
 4. [FileStructure_Project](https://github.com/tanushrees31/FileStructure_Project)
     - A file structure implementation for efficient organization and retrieval
     - Technologies used: C++
-    - ![Project Screenshot](https://example.com/screenshot.png)
-
+  
 5. [CarPredictionModel](https://github.com/tanushrees31/CarPredictionModel)
     - A machine learning model to predict the price of used cars
     - Technologies used: Jupyter Notebook, Python (Scikit-learn, Pandas, NumPy)
-    - ![Project Screenshot](https://example.com/screenshot.png)
-
-
+  
 
 
 
