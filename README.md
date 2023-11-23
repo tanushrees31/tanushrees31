@@ -59,14 +59,11 @@ Here are some of my notable projects on GitHub:
     - Technologies used: Android Development (Java)
    
    
- [FileStructure_Project](https://github.com/tanushrees31/FileStructure_Project)
+ [InventoryManagement](https://github.com/tanushrees31/InventoryManagement)
     - A file structure implementation for efficient organization and retrieval
     - Technologies used: C++
   
- [CarPredictionModel](https://github.com/tanushrees31/CarPredictionModel)
-    - A machine learning model to predict the price of used cars
-    - Technologies used: Jupyter Notebook, Python (Scikit-learn, Pandas, NumPy)
-  
+
 
 
 
