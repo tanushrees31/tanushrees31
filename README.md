@@ -11,9 +11,6 @@
   <a href="https://twitter.com/thanushree12703" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="tanushris585@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 
@@ -30,6 +27,11 @@
 <p align="left">I am an Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I am constantly expanding my technical and non-technical skills to solve real-world challenges.
 Let's connect and collaborate on exciting projects and ideas! Feel free to explore my repositories and reach out to me to discuss any opportunities or ideas. Thank you for visiting my profile!
 </p>
+
+🧠 I'm currently learning Python.
+
+📫 How to reach me tanushris585@gmail.com
+
 
 ## 💻 Skills & Interests
 
