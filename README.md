@@ -12,7 +12,7 @@ https://thanushrees.carrd.co/
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://thanushrees.carrd.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=Portofolia&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portofolia logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portofolia&logo=Portofolia&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portofolia logo"  />
   </a>
 </div>
 
