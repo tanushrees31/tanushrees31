@@ -54,8 +54,8 @@ Let's connect and collaborate on exciting projects and ideas! Feel free to explo
 Here are some of my notable projects on GitHub:
 
 
- [MobileAppD](https://github.com/tanushrees31/MobileAppD)
-    - Mobile app development projects and experiments
+ [Aahar](https://github.com/tanushrees31/Aahar)
+    - Mobile app development that address the issues of food waste 
     - Technologies used: Android Development (Java)
    
    
