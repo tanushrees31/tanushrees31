@@ -47,32 +47,23 @@ Let's connect and collaborate on exciting projects and ideas! Feel free to explo
 <div align="Left">
   
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrees31)
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushrees31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 
 ## 🚀 Projects
 
 Here are some of my notable projects on GitHub:
 
-1. [Web_Devlopment_Portofolia](https://github.com/tanushrees31/Web_Devlopment_Portofolia)
-    - A showcase of my web development skills and projects
-    - Technologies used: HTML5, CSS3, JavaScript
-   
 
-2. [MobileAppD](https://github.com/tanushrees31/MobileAppD)
+ [MobileAppD](https://github.com/tanushrees31/MobileAppD)
     - Mobile app development projects and experiments
     - Technologies used: Android Development (Java)
    
-
-3. [Netflix](https://github.com/tanushrees31/Netflix)
-    - A recreation of the Netflix interface with dynamic movie suggestions
-    - Most starred repository
-    - Technologies used: HTML5, CSS3, JavaScript
    
-4. [FileStructure_Project](https://github.com/tanushrees31/FileStructure_Project)
+ [FileStructure_Project](https://github.com/tanushrees31/FileStructure_Project)
     - A file structure implementation for efficient organization and retrieval
     - Technologies used: C++
   
-5. [CarPredictionModel](https://github.com/tanushrees31/CarPredictionModel)
+ [CarPredictionModel](https://github.com/tanushrees31/CarPredictionModel)
     - A machine learning model to predict the price of used cars
     - Technologies used: Jupyter Notebook, Python (Scikit-learn, Pandas, NumPy)
   
