@@ -30,6 +30,7 @@
 <p align="left">An Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I'm well-versed in my technical and non-technical skills and eager to apply them to real-world situations.</p>
 
 
+
 <h3 align="left">🛠 Language </h3>
 
 ###
@@ -47,7 +48,11 @@
   <img width="12" />
 </div>
 
-### <h3 align="left">🛠 tools </h3>
+
+###
+<h3 align="left">
+
+🛠 Tools </h3>
 
 ###
 
