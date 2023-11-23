@@ -62,7 +62,11 @@ Here are some of my notable projects on GitHub:
  [InventoryManagement](https://github.com/tanushrees31/InventoryManagement)
     - A file structure implementation for efficient organization and retrieval
     - Technologies used: C++
-  
+
+
+  [IFSC-FINDER-](https://github.com/tanushrees31/IFSC-FINDER-)
+    -Web Based Appication that help user to find the IFSC of particular Bank
+    - Technologies used: PHP and MySQL
 
 
 
