@@ -47,7 +47,7 @@ Let's connect and collaborate on exciting projects and ideas! Feel free to explo
 <div align="Left">
   
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrees31)
- 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushrees31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ## 🚀 Projects
 
