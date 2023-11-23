@@ -31,7 +31,7 @@
 
 
 
-<h3 align="left">🛠 Language </h3>
+<h3 align="left">🛠 Tech Stack </h3>
 
 ###
 
@@ -46,23 +46,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-</div>
-
-
-###
-<h3 align="left">
-
-🛠 Tools </h3>
-
-###
-
-<div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+
 </div>
+
+
+### Projects
+IFSC FINDER - The IFSC Database Management Project is a comprehensive solution for managing information related to banking institutions, their branches, and administrative users. 
+FOOD DONATION APPLICATION - 
+
+
 
 ###  GitHub Stats:
 
