@@ -27,8 +27,11 @@
 
 ###
 
-<p align="left">An Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I'm well-versed in my technical and non-technical skills and eager to apply them to real-world situations.</p>
+<p align="left">I am an Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I am constantly expanding my technical and non-technical skills to solve real-world challenges.
+Let's connect and collaborate on exciting projects and ideas! Feel free to explore my repositories and reach out to me to discuss any opportunities or ideas. Thank you for visiting my profile!
+</p>
 
+- 🌱 I’m currently learning Python   
 
 
 <h3 align="left">🛠 Tech Stack </h3>
@@ -67,6 +70,73 @@ FOOD DONATION APPLICATION -
 <div align="Left">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushrees31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  # Hi there! 👋
+
+Welcome to my GitHub profile! I'm [YOUR_NAME](https://github.com/YOUR_GITHUB_USERNAME), an Information Science and Engineering student with a passion for coding, learning, and building innovative projects. I have a versatile skill set and a strong interest in web development, mobile app development, data analysis, and file structures. My GitHub journey has been an exciting and productive one so far, and I'm looking forward to showcasing my work and connecting with the developer community.
+
+## 🌟 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanushrees31)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushrees31)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tanushrees31)](https://github.com/tanushrees31)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanushrees31)](https://git.io/streak-stats)
+
+## 💻 Skills & Interests
+
+- Programming Languages: JavaScript, Python, Java, C++, PHP
+- Web Development: HTML5, CSS3, JavaScript, React
+- Mobile App Development: Android Development (Java)
+- Data Analysis & Machine Learning: Jupyter Notebook, Python libraries (NumPy, Pandas, TensorFlow, Keras)
+- Databases: MySQL, MongoDB
+- File Structures: Data organization and optimization techniques
+- Problem-Solving and Algorithms
+
+## 🚀 Projects
+
+Here are some of my notable projects on GitHub:
+
+1. [Web_Devlopment_Portofolia](https://github.com/tanushrees31/Web_Devlopment_Portofolia)
+    - A showcase of my web development skills and projects
+    - Technologies used: HTML5, CSS3, JavaScript
+    - ![Project Screenshot](https://example.com/screenshot.png)
+
+2. [MobileAppD](https://github.com/tanushrees31/MobileAppD)
+    - Mobile app development projects and experiments
+    - Technologies used: Android Development (Java)
+    - ![Project Screenshot](https://example.com/screenshot.png)
+
+3. [Netflix](https://github.com/tanushrees31/Netflix)
+    - A recreation of the Netflix interface with dynamic movie suggestions
+    - Most starred repository
+    - Technologies used: HTML5, CSS3, JavaScript
+    - ![Project Screenshot](https://example.com/screenshot.png)
+
+4. [FileStructure_Project](https://github.com/tanushrees31/FileStructure_Project)
+    - A file structure implementation for efficient organization and retrieval
+    - Technologies used: C++
+    - ![Project Screenshot](https://example.com/screenshot.png)
+
+5. [CarPredictionModel](https://github.com/tanushrees31/CarPredictionModel)
+    - A machine learning model to predict the price of used cars
+    - Technologies used: Jupyter Notebook, Python (Scikit-learn, Pandas, NumPy)
+    - ![Project Screenshot](https://example.com/screenshot.png)
+
+## 📞 Contact Information
+
+You can reach out to me through the following channels:
+- Email: your.email@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
+- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
+## 🌎 Location
+
+I am currently based in Karnataka, India.
+
+## 🌱 About Me
+
+I am an Information Science and Engineering student with a focus on innovation and hands-on problem-solving. I am constantly expanding my technical and non-technical skills to solve real-world challenges. My GitHub journey has been a journey of continuous learning, and I enjoy experimenting with new technologies and building impactful projects.
+  
+Let's connect and collaborate on exciting projects and ideas! Feel free to explore my repositories and reach out to me to discuss any opportunities or ideas. Thank you for visiting my profile!
 </div>
 
 
