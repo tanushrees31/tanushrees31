@@ -37,19 +37,19 @@ Let's connect and collaborate on exciting projects and ideas! Feel free to explo
 
 ## 💻 Skills & Interests
 
-### - Programming Languages: 
-JavaScript, Python, Java, C++, PHP
+## Programming Languages:
+  - JavaScript, Python, Java, C++, PHP
 ### - Web Development: 
-HTML5, CSS3, JavaScript, React
+  - HTML5, CSS3, JavaScript, React
 ### - Mobile App Development: 
-Android Development (Java)
+  -  Android Development (Java)
 ### - Data Analysis & Machine Learning: 
-Jupyter Notebook, Python libraries (NumPy, Pandas, TensorFlow, Keras)
+ -  Jupyter Notebook, Python libraries (NumPy, Pandas, TensorFlow, Keras)
 ### - Databases: 
-MySQL, MongoDB
+  - MySQL, MongoDB
 ### - File Structures: 
-Data organization and optimization techniques
-### - Problem-Solving and Algorithms
+ - Data organization and optimization techniques
+ - Problem-Solving and Algorithms
 
 
 ###  GitHub Stats:
