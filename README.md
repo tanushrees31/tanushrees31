@@ -37,7 +37,7 @@ Let's connect and collaborate on exciting projects and ideas! Feel free to explo
 
 ## 💻 Skills & Interests
 
-## Programming Languages:
+### Programming Languages:
   - JavaScript, Python, Java, C++, PHP
 ### - Web Development: 
   - HTML5, CSS3, JavaScript, React
